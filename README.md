@@ -1,2 +1,1 @@
-# Data-Structure
-A data structure is a particular way of organizing data in a computer so that it can be used effectively. C++ codes on Data Structure.
+Cpp Programs on Data Structure and algorithms
